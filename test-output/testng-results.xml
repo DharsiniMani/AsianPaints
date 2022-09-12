@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-12T12:00:34 IST" name="Suite" finished-at="2022-09-12T12:03:38 IST" duration-ms="183759">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-09-12T12:00:34 IST" name="Test" finished-at="2022-09-12T12:03:38 IST" duration-ms="183759">
+      <class name="runner.Run">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:00:34 IST" name="setUpClass" finished-at="2022-09-12T12:00:35 IST" duration-ms="768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5ca006ac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:00:35 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:00:48 IST" duration-ms="13052" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Dropdown menu while hovering over PAINTS & TEXTURES"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Dropdown menu"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:00:48 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:01:02 IST" duration-ms="13689" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Advanced Calculator with valid credentials of Exterior"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Exterior of Advanced Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:01:02 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:01:15 IST" duration-ms="13202" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Advanced Calculator with invalid credentials of Exterior"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Exterior of Advanced Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:01:15 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:01:28 IST" duration-ms="12873" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Advanced Calculator with invalid credentials of Exterior"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Exterior of Advanced Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:01:28 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:01:42 IST" duration-ms="13851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Advanced Calculator with invalid credentials of Exterior"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Exterior of Advanced Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:01:42 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:01:56 IST" duration-ms="14013" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Advanced Calculator with invalid credentials of Exterior"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Exterior of Advanced Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:01:56 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:02:10 IST" duration-ms="14196" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Advanced Calculator with valid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Interior of Advanced Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:02:10 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:02:25 IST" duration-ms="15094" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Interior of Advanced Calculator with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Interior of Advanced Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:02:25 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:02:38 IST" duration-ms="13022" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Interior of Advanced Calculator with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Interior of Advanced Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:02:38 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:02:51 IST" duration-ms="12738" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Quick Budget Calculator with valid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Quick Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:02:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:03:03 IST" duration-ms="12059" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Quick Calculator with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Quick Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:03:03 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:03:14 IST" duration-ms="11358" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Quick Calculator with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Quick Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:03:14 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:03:26 IST" duration-ms="11568" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Quick Calculator with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Quick Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:03:26 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-09-12T12:03:38 IST" duration-ms="12108" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Enter Quick Calculator with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Quick Calculator in Paint Budget Calculator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.Run@13d9b21f]" started-at="2022-09-12T12:03:38 IST" name="tearDownClass" finished-at="2022-09-12T12:03:38 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.Run -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
